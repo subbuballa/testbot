@@ -1,0 +1,21 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "webhook for facebook chat bot",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js" 
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "subbuballa",
+  "license": "ISC"
+}
